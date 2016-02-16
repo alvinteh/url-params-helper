@@ -1,5 +1,5 @@
 {
-  "name": "url-params",
+  "name": "url-params-helper",
   "author": "Alvin Teh <i@alvinteh.me> (http://alvinteh.me)",
   "description": "A helper for URL parameters/query strings.",
   "license": "MIT",
