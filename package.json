@@ -15,6 +15,7 @@
     "query",
     "string"
   ],
+  "main": "lib/url-params.js",
   "dependencies": {
   },
   "devDependencies": {
