@@ -1,0 +1,13 @@
+#Ignore dependency folders
+/bower_components
+/node_modules
+
+#Ignore distribution folders
+/lib
+
+#Ignore temporary folders
+/coverage
+/tmp
+
+#Ignore debug files
+npm-debug.log

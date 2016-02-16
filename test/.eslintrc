@@ -1,0 +1,8 @@
+{
+  "extends": "alvinteh",
+  "globals": {
+    "describe": true,
+    "expect": true,
+    "it": true
+  }
+}

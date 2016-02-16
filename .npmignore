@@ -1,0 +1,12 @@
+#Ignore dependency folders
+/bower_components
+/node_modules
+
+#Ignore source folders
+/src
+
+#Ignore temporary folders
+/tmp
+
+#Ignore debug files
+npm-debug.log
