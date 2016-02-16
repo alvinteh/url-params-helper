@@ -6,7 +6,7 @@
   "version": "0.1.0",
   "repository": {
         "type": "git",
-        "url": "https://github.com/alvinteh/url-params.git"
+        "url": "https://github.com/alvinteh/url-params-helper.git"
   },
   "keywords": [
     "url",
