@@ -5,7 +5,8 @@ export function getParams(pageURL) {
     queryString.split('&') : '';
   const params = {};
 
-  for (const rawParam of rawParams) {
+  for (let i = 0; i < rawParams.length; i++) {
+    const rawParam = rawParams[i];
     const param = rawParam.split('=');
     let paramName = param[0];
     const paramValue = param[1];
